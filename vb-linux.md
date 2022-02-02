@@ -1,14 +1,22 @@
+[vb](https://osowoso.xyz/vb-linux.html)
+
 ![void](/assets/img/void_bg_christmas.png)
+
 # Welcome to **vb**-**linux** website
       We used arch BTW :D
 
 # PROJECT LINKS:
  
- - [Sourceforge](https://sourceforge.net/projects/vb-linux/)
+<a href="https://sourceforge.net/p/vb-linux/"><img alt="Download vb-linux" src="https://sourceforge.net/sflogo.php?type=17&group_id=3476392" width=200></a>
 
 ## DOWNLOADS:
+yet ipfs only..
 
-- [ipfs](https://ipfs.io/ipfs/Qmeh3NedfbmnTzL6cyTikev6pyLoSKx1fvwp1Lu88JWq6f)
+[ipfs](https://ipfs.io/ipfs/Qmeh3NedfbmnTzL6cyTikev6pyLoSKx1fvwp1Lu88JWq6f)
+
+sourceforge
+
+[![sourceforge](https://img.shields.io/sourceforge/dt/vb-linux.svg)](https://sourceforge.net/projects/vb-linux/files/latest/download)
 
  First release!
  02.02.2022
@@ -80,7 +88,7 @@ easy
 
 ## Interested ?
 
-zenobit [oSoWoSo](https://github.com/oSoWoSo)
+zenobit from [oSoWoSo](https://osowoso.xyz)
 
 ![merry christmas](/assets/img/void_bg_christmas.png)
 
