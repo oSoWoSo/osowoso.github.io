@@ -1,8 +1,24 @@
 ![void](/assets/img/void_bg_christmas.png)
-# Welcome to **vb**-**linux** temporary web
+# Welcome to **vb**-**linux** website
       We used arch BTW :D
+# PROJECT LINKS:
+ 
+ - [Sourceforge](https://sourceforge.net/projects/vb-linux/)
 
- [Void linux](https://voidlinux.org/) is best linux distribution out there.
+## DOWNLOADS:
+
+- [ipfs](https://ipfs.io/ipfs/Qmeh3NedfbmnTzL6cyTikev6pyLoSKx1fvwp1Lu88JWq6f)
+
+ First release!
+ 02.02.2022
+ version Alpha 0.1
+ 
+## Expect bugs, not finished features and a lot incoming changes...
+
+
+##
+
+[Void linux](https://voidlinux.org/) is best linux distribution out there.
 
  With one exception. Not that easy for linux or computer begginers.
  
@@ -62,12 +78,6 @@ easy
 - have fun
 
 ## Interested ?
-
-Soon in your computers ...
-
- BTW :D
-
-Stay in touch ...
 
 zenobit [oSoWoSo](https://github.com/oSoWoSo)
 
