@@ -10,6 +10,7 @@
 <a href="https://sourceforge.net/p/vb-linux/"><img alt="Download vb-linux" src="https://sourceforge.net/sflogo.php?type=17&group_id=3476392" width=200></a>
 
 ## DOWNLOADS:
+yet ipfs only..
 
 [ipfs](https://ipfs.io/ipfs/Qmeh3NedfbmnTzL6cyTikev6pyLoSKx1fvwp1Lu88JWq6f)
 
