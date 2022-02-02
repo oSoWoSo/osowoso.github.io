@@ -5,11 +5,16 @@ canonical_url: 'https://osowoso.xyz'
 ---
 
 # full-featured desktop operation system
-## or better described as void begginer friendly overlay
-[vb-linux](./vb-linux.md)
 
-## old zenobit`s websites
-[old](https://zenobit.gitlab.io)
+
+## void begginer friendly overlay
+
+
+You can find here: >>> [vb](./vb-linux.md) <<<
+
+
+
+
 
 ### repositories hosted on:
 - my personal gitea server
