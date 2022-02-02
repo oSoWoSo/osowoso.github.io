@@ -8,13 +8,10 @@
 <a href="https://sourceforge.net/p/vb-linux/"><img alt="Download vb-linux" src="https://sourceforge.net/sflogo.php?type=17&group_id=3476392" width=200></a>
 
 ## DOWNLOADS:
-for now ipfs only..
 
 [ipfs](https://ipfs.io/ipfs/Qmeh3NedfbmnTzL6cyTikev6pyLoSKx1fvwp1Lu88JWq6f)
 
-(waiting for upload complete)
-
-will be updated as soon as possible
+[MEGA](https://mega.nz/folder/lWgFAaBZ#XyXJCGkfxQUosWQSk8LeOw)
 
 sourceforge
 
