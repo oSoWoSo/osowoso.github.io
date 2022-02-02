@@ -4,7 +4,8 @@ title: oSoWoSo - open Source World Society
 canonical_url: 'https://osowoso.xyz'
 ---
 
-# full-featured desktop operation system for anyone
+# full-featured desktop operation system
+## or better described as void begginer friendly overlay
 [vb-linux](./vb-linux.md)
 
 ## old zenobit`s websites
