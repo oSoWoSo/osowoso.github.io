@@ -26,8 +26,6 @@ sourceforge
 ## Expect bugs, not finished features and a lot incoming changes...
 
 
-##
-
 [Void linux](https://voidlinux.org/) is best linux distribution out there.
 
  With one exception. Not that easy for linux or computer begginers.
