@@ -7,8 +7,8 @@ canonical_url: 'https://osowoso.xyz'
 # full-featured desktop operation system for anyone
 [vb-linux](./vb-linux.md)
 
-## old websites
-[zenobit's site](https://zenobit.gitlab.io)
+## old zenobit`s websites
+[old](https://zenobit.gitlab.io)
 
 ### repositories hosted on:
 - my personal gitea server
