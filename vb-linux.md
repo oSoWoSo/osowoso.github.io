@@ -1,5 +1,3 @@
-[vb](https://osowoso.xyz/vb-linux.html)
-
 ![void](/assets/img/void_bg_christmas.png)
 
 # Welcome to **vb**-**linux** website
