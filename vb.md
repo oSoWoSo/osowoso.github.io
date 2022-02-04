@@ -1,9 +1,14 @@
 ![void](/assets/img/void_bg_christmas.png)
 
-# Welcome to **vb**-**linux** website
+# Welcome our  website
       We used arch BTW :D
 
+# **vb** aka **VoidGNU/Linux**
+## Operation System for desktop on top of excellent Void and 64bit
+
 # PROJECT LINKS:
+
+[![Codeberg](/assets/img/visit.svg)](https://codeberg.org/oSoWoSo/vb)
  
 <a href="https://sourceforge.net/p/vb-linux/"><img alt="Download vb-linux" src="https://sourceforge.net/sflogo.php?type=17&group_id=3476392" width=200></a>
 
