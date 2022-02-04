@@ -1,38 +1,119 @@
-# oSoWoSo
-open Source World Society
+# Markdown Cheat Sheet
 
-Maybe you looking for...?
+Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
-### vb aka vb-linux?
-### x86_64 desktop operation system for anyone
+This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
 
-alias
+## Basic Syntax
 
-### void linux begginer friendly overlay
+These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
 
-You can find it here: >>> [vb](./vb-linux.md) <<<
+### Heading
 
+# H1
+## H2
+### H3
 
+### Bold
 
+**bold text**
 
+### Italic
 
-### repositories hosted on:
-- selfhosted gitea (private)
-- Not usually synced yet!
-- ![codeberg](./assets/img/codeberg.png)[codeberg.org](https://codeberg.org/oSoWoSo)
-- ![disroot](./assets/img/disroot.png)[disroot.org](https://git.disroot.org/oSoWoSo)
-- ![gitlab](./assets/img/gitlab.png)[gitlab.com](https://gitlab.com/osowoso)
-- ![sourcehut](./assets/img/sourcehut.png)[sourcehut](https://hg.sr.ht/~osowoso)
-- ![github](./assets/img/github.png)[github.com](https://github.com/oSoWoSo)
+*italicized text*
 
-_____________________________
-[covid19](./covid.md)
+### Blockquote
 
+> blockquote
 
-_____________________________
-builded with [jekyll](https://jekyllrb.com/)
+### Ordered List
 
-licensed under
-[EUPL 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
+1. First item
+2. Second item
+3. Third item
 
-=======
+### Unordered List
+
+- First item
+- Second item
+- Third item
+
+### Code
+
+`code`
+
+### Horizontal Rule
+
+---
+
+### Link
+
+[Markdown Guide](https://www.markdownguide.org)
+
+### Image
+
+![alt text](https://www.markdownguide.org/assets/images/tux.png)
+
+## Extended Syntax
+
+These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+
+### Table
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+### Fenced Code Block
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+### Footnote
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+### Heading ID
+
+### My Great Heading {#custom-id}
+
+### Definition List
+
+term
+: definition
+
+### Strikethrough
+
+~~The world is flat.~~
+
+### Task List
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+### Emoji
+
+That is so funny! :joy:
+
+(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
+
+### Highlight
+
+I need to highlight these ==very important words==.
+
+### Subscript
+
+H~2~O
+
+### Superscript
+
+X^2^
