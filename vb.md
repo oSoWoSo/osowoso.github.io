@@ -1,19 +1,24 @@
 ![void](/assets/img/void_bg_christmas.png)
 
-# Welcome to **vb**-**linux** website
+# Welcome our  website
       We used arch BTW :D
 
+# **vb** aka **VoidGNU/Linux**
+## Operation System for desktop on top of excellent Void and 64bit
+
 # PROJECT LINKS:
+
+[![Codeberg](/assets/img/visit.svg)](https://codeberg.org/oSoWoSo/vb)
  
 <a href="https://sourceforge.net/p/vb-linux/"><img alt="Download vb-linux" src="https://sourceforge.net/sflogo.php?type=17&group_id=3476392" width=200></a>
 
 ## DOWNLOADS:
 
-[ipfs](https://ipfs.io/ipfs/Qmeh3NedfbmnTzL6cyTikev6pyLoSKx1fvwp1Lu88JWq6f)
+#### [ipfs](https://ipfs.io/ipfs/Qmeh3NedfbmnTzL6cyTikev6pyLoSKx1fvwp1Lu88JWq6f)
 
-[MEGA](https://mega.nz/folder/lWgFAaBZ#XyXJCGkfxQUosWQSk8LeOw)
+#### [MEGA](https://mega.nz/folder/lWgFAaBZ#XyXJCGkfxQUosWQSk8LeOw)
 
-[pcloud](https://u.pcloud.link/publink/show?code=kZ1ROcXZtQ2vQhh2YHpj5WDQ1u0VC4WnDI4V)
+#### [pcloud](https://u.pcloud.link/publink/show?code=kZ1ROcXZtQ2vQhh2YHpj5WDQ1u0VC4WnDI4V)
 
 sourceforge
 
@@ -26,7 +31,7 @@ sourceforge
 ## Expect bugs, not finished features and a lot incoming changes...
 
 
-[Void linux](https://voidlinux.org/) is best linux distribution out there.
+#### [Void linux](https://voidlinux.org/) is best linux distribution out there.
 
  With one exception. Not that easy for linux or computer begginers.
  
@@ -34,7 +39,7 @@ sourceforge
 
 ### What about Project Trident ?
 
-[Project Trident](https://project-trident.org) sadly heading to the end.
+#### [Project Trident](https://project-trident.org) sadly heading to the end.
 
 Looks like nothing based on void anywhere ...
 
@@ -85,14 +90,14 @@ easy
 - learn more
 - have fun
 
+
 ![image](https://user-images.githubusercontent.com/6384793/152500098-0e30c87b-133f-4842-acb4-fab63add8624.png)
 - And show everyone that noob like me can create working linux distribution from void linux
 
 
 ## Interested ?
 
-
-[codecollab](https://codecollab.io/@osowoso/vb)
+#### [codecollab](https://codecollab.io/@osowoso/vb)
 
 zenobit from [oSoWoSo](https://osowoso.xyz)
 
@@ -100,6 +105,9 @@ zenobit from [oSoWoSo](https://osowoso.xyz)
 
 # LICENSE
 FOSS project licensed under
-[EUPL 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
+#### [EUPL 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
 
 [back](./)
+
+#### [oSoWoSo](https://osowoso.xyz)
+
