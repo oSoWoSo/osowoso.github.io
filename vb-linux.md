@@ -84,8 +84,11 @@ easy
 - because we can
 - learn more
 - have fun
+- And show everyone that noob like me can create working linux distribution from void linux ![image](https://user-images.githubusercontent.com/6384793/152500098-0e30c87b-133f-4842-acb4-fab63add8624.png)
+
 
 ## Interested ?
+[codecollab](https://codecollab.io/@osowoso/vb)
 
 zenobit from [oSoWoSo](https://osowoso.xyz)
 
