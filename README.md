@@ -1,163 +1,98 @@
-## Welcome to GitHub Pages
+![void](/assets/img/void_bg_christmas.png)
 
-You can use the [editor on GitHub](https://github.com/oSoWoSo/oSoWoSo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Welcome to **vb**-**linux** website
+      We used arch BTW :D
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# PROJECT LINKS:
+ 
+<a href="https://sourceforge.net/p/vb-linux/"><img alt="Download vb-linux" src="https://sourceforge.net/sflogo.php?type=17&group_id=3476392" width=200></a>
 
-### Markdown
+## DOWNLOADS:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[ipfs](https://ipfs.io/ipfs/Qmeh3NedfbmnTzL6cyTikev6pyLoSKx1fvwp1Lu88JWq6f)
 
-```markdown
-Syntax highlighted code block
+[MEGA](https://mega.nz/folder/lWgFAaBZ#XyXJCGkfxQUosWQSk8LeOw)
 
-# Header 1
-## Header 2
-### Header 3
+[pcloud](https://u.pcloud.link/publink/show?code=kZ1ROcXZtQ2vQhh2YHpj5WDQ1u0VC4WnDI4V)
 
-- Bulleted
-- List
+sourceforge
 
-1. Numbered
-2. List
+[![sourceforge](https://img.shields.io/sourceforge/dt/vb-linux.svg)](https://sourceforge.net/projects/vb-linux/files/latest/download)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oSoWoSo/oSoWoSo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-# MARKDOWN README
-
----
-layout: default
----
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+ First release!
+ 02.02.2022
+ version Alpha 0.1
+ 
+## Expect bugs, not finished features and a lot incoming changes...
 
 
-### Definition lists can be used with HTML syntax.
+[Void linux](https://voidlinux.org/) is best linux distribution out there.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+ With one exception. Not that easy for linux or computer begginers.
+ 
+ (like could be)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### What about Project Trident ?
 
-```
-The final element.
-```
+[Project Trident](https://project-trident.org) sadly heading to the end.
+
+Looks like nothing based on void anywhere ...
+
+**I admire hard work of void developers and contributors**
+
+A lot of distribution based on debian or arch ...
+
+## And here I came ...
+
+Void is first linux distribution which is still easy to understand and manage.
+
+Together with enough recent versions of packages and stability.
+
+So let's endorse [void](https://voidlinux.org/) a bit ...
+
+![void](/assets/img/void_fg_christmas.png)
+
+# **vb-linux/GNU**
+
+I am starting community project ...
+
+# Goal
+
+- build start point.
+- you can call it `void begginer friendly overlay`
+- full-featured desktop operation system for anyone.
+
+# How ?
+
+You didn't know void yet don't you?
+
+easy
+
+- provide installation media
+- provide this website
+- provide `community repository` called simply [VUR](https://github.com/vb-linux/VUR)
+- thanks to [unix](https://en.wikipedia.org/wiki/Unix_philosophy) and [KISS](https://en.wikipedia.org/wiki/KISS_principle) principle
+
+# Why ?
+
+- because a lot of usefull apps can't be merged into void repos.
+- (for good reasons)
+- help promote excellent void linux
+- help promote privacy, security and federation
+- help promote GNU/linux and FOSS in general
+- help create FOSS world bigger
+- because we can
+- learn more
+- have fun
+
+## Interested ?
+
+zenobit from [oSoWoSo](https://osowoso.xyz)
+
+![merry christmas](/assets/img/void_bg_christmas.png)
+
+# LICENSE
+FOSS project licensed under
+[EUPL 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
+
+[back](./)
