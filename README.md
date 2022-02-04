@@ -1,98 +1,35 @@
-![void](/assets/img/void_bg_christmas.png)
+---
+layout: default
+title: oSoWoSo - open Source World Society
+canonical_url: 'https://osowoso.xyz'
+---
 
-# Welcome to **vb**-**linux** website
-      We used arch BTW :D
-
-# PROJECT LINKS:
- 
-<a href="https://sourceforge.net/p/vb-linux/"><img alt="Download vb-linux" src="https://sourceforge.net/sflogo.php?type=17&group_id=3476392" width=200></a>
-
-## DOWNLOADS:
-
-[ipfs](https://ipfs.io/ipfs/Qmeh3NedfbmnTzL6cyTikev6pyLoSKx1fvwp1Lu88JWq6f)
-
-[MEGA](https://mega.nz/folder/lWgFAaBZ#XyXJCGkfxQUosWQSk8LeOw)
-
-[pcloud](https://u.pcloud.link/publink/show?code=kZ1ROcXZtQ2vQhh2YHpj5WDQ1u0VC4WnDI4V)
-
-sourceforge
-
-[![sourceforge](https://img.shields.io/sourceforge/dt/vb-linux.svg)](https://sourceforge.net/projects/vb-linux/files/latest/download)
-
- First release!
- 02.02.2022
- version Alpha 0.1
- 
-## Expect bugs, not finished features and a lot incoming changes...
+# full-featured desktop operation system
 
 
-[Void linux](https://voidlinux.org/) is best linux distribution out there.
+## void begginer friendly overlay
 
- With one exception. Not that easy for linux or computer begginers.
- 
- (like could be)
 
-### What about Project Trident ?
+You can find here: >>> [vb](./vb-linux.md) <<<
 
-[Project Trident](https://project-trident.org) sadly heading to the end.
 
-Looks like nothing based on void anywhere ...
 
-**I admire hard work of void developers and contributors**
 
-A lot of distribution based on debian or arch ...
 
-## And here I came ...
+### repositories hosted on:
+- my personal gitea server
+- ![codeberg](./assets/img/codeberg.png)[codeberg.org](https://codeberg.org/oSoWoSo)
+- ![disroot](./assets/img/disroot.png)[disroot.org](https://git.disroot.org/oSoWoSo)
+- ![gitlab](./assets/img/gitlab.png)[gitlab.com](https://gitlab.com/osowoso)
+- ![sourcehut](./assets/img/sourcehut.png)[sourcehut](https://hg.sr.ht/~osowoso)
+- ![github](./assets/img/github.png)[github.com](https://github.com/oSoWoSo)
 
-Void is first linux distribution which is still easy to understand and manage.
+_____________________________
+[covid19](./covid.md)
 
-Together with enough recent versions of packages and stability.
 
-So let's endorse [void](https://voidlinux.org/) a bit ...
+_____________________________
+builded with [jekyll](https://jekyllrb.com/)
 
-![void](/assets/img/void_fg_christmas.png)
-
-# **vb-linux/GNU**
-
-I am starting community project ...
-
-# Goal
-
-- build start point.
-- you can call it `void begginer friendly overlay`
-- full-featured desktop operation system for anyone.
-
-# How ?
-
-You didn't know void yet don't you?
-
-easy
-
-- provide installation media
-- provide this website
-- provide `community repository` called simply [VUR](https://github.com/vb-linux/VUR)
-- thanks to [unix](https://en.wikipedia.org/wiki/Unix_philosophy) and [KISS](https://en.wikipedia.org/wiki/KISS_principle) principle
-
-# Why ?
-
-- because a lot of usefull apps can't be merged into void repos.
-- (for good reasons)
-- help promote excellent void linux
-- help promote privacy, security and federation
-- help promote GNU/linux and FOSS in general
-- help create FOSS world bigger
-- because we can
-- learn more
-- have fun
-
-## Interested ?
-
-zenobit from [oSoWoSo](https://osowoso.xyz)
-
-![merry christmas](/assets/img/void_bg_christmas.png)
-
-# LICENSE
-FOSS project licensed under
+licensed under
 [EUPL 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
-
-[back](./)
