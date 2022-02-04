@@ -10,7 +10,7 @@ canonical_url: 'https://osowoso.xyz'
 ## void begginer friendly overlay
 
 
-You can find here: >>> [vb](./vb-linux.md) <<<
+You can find here: >>> [vb](./vb.md) <<<
 
 
 
