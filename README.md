@@ -2,11 +2,11 @@
 Maybe you looking for...?
 
 ### vb aka vb-linux?
-### full-featured desktop operation system
+### x86_64 desktop operation system for anyone
 
 alias
 
-### void begginer friendly overlay
+### void linux begginer friendly overlay
 
 You can find it here: >>> [vb](./vb-linux.md) <<<
 
