@@ -16,6 +16,7 @@ You can find it here: >>> [vb](./vb-linux.md) <<<
 
 ### repositories hosted on:
 - selfhosted gitea (private)
+- Not usually synced yet!
 - ![codeberg](./assets/img/codeberg.png)[codeberg.org](https://codeberg.org/oSoWoSo)
 - ![disroot](./assets/img/disroot.png)[disroot.org](https://git.disroot.org/oSoWoSo)
 - ![gitlab](./assets/img/gitlab.png)[gitlab.com](https://gitlab.com/osowoso)
