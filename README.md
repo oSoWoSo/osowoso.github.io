@@ -1,16 +1,14 @@
----
-layout: default
-title: oSoWoSo - open Source World Society
-canonical_url: 'https://osowoso.xyz'
----
 
-# full-featured desktop operation system
+Maybe you looking for...?
 
+### vb aka vb-linux?
+### full-featured desktop operation system
 
-## void begginer friendly overlay
+alias
 
+### void begginer friendly overlay
 
-You can find here: >>> [vb](./vb-linux.md) <<<
+You can find it here: >>> [vb](./vb-linux.md) <<<
 
 
 
