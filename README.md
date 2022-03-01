@@ -1,119 +1,53 @@
-# Markdown Cheat Sheet
-
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
-
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
-
-## Basic Syntax
-
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
-
-### Heading
-
-# H1
-## H2
-### H3
-
-### Bold
-
-**bold text**
-
-### Italic
-
-*italicized text*
-
-### Blockquote
-
-> blockquote
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-- First item
-- Second item
-- Third item
-
-### Code
-
-`code`
-
-### Horizontal Rule
+[![Jekyll site CI](https://github.com/oSoWoSo/oSoWoSo/actions/workflows/jekyll.yml/badge.svg)](https://github.com/oSoWoSo/oSoWoSo/actions/workflows/jekyll.yml)
 
 ---
+layout: default
+title: oSoWoSo - open Source World Society
+canonical_url: 'https://osowoso.xyz'
+---
 
-### Link
+# vb aka Void GNU/Linux
 
-[Markdown Guide](https://www.markdownguide.org)
+## full-featured desktop operation system
 
-### Image
+## void begginer friendly overlay
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+you can find here:
 
-## Extended Syntax
+#### [vb](https://vb.osowoso.xyz)
 
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+# quickemu
 
-### Table
+you can find here:
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+#### [quickemu](https://quickemu.osowoso.xyz)
 
-### Fenced Code Block
+# easybasgui
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+you can find here:
 
-### Footnote
+#### [easybashgui](https://easybashgui.osowoso.xyz)
 
-Here's a sentence with a footnote. [^1]
+_____________________________
 
-[^1]: This is the footnote.
+# repositories hosted on:
+- my personal gitea server
+- prefered ![codeberg](./assets/img/codeberg.png)[codeberg.org](https://codeberg.org/oSoWoSo)
+- or ![disroot](./assets/img/disroot.png)[disroot.org](https://git.disroot.org/oSoWoSo)
+- ![sourcehut](./assets/img/sourcehut.png)[sourcehut](https://hg.sr.ht/~osowoso)
+- ![gitlab](./assets/img/gitlab.png)[gitlab.com](https://gitlab.com/osowoso)
+- needed for contribution ![github](./assets/img/github.png)[github.com](https://github.com/oSoWoSo) :(
+- waiting for gitea federation support...
+- and looking at git-ssb
 
-### Heading ID
+_____________________________
 
-### My Great Heading {#custom-id}
+[covid19](./covid.md)
 
-### Definition List
+_____________________________
 
-term
-: definition
+builded with [jekyll](https://jekyllrb.com/)
 
-### Strikethrough
+licensed under
 
-~~The world is flat.~~
-
-### Task List
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-### Emoji
-
-That is so funny! :joy:
-
-(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
-
-### Highlight
-
-I need to highlight these ==very important words==.
-
-### Subscript
-
-H~2~O
-
-### Superscript
-
-X^2^
+#### [EUPL 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
