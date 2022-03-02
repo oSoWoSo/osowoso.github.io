@@ -14,11 +14,11 @@
 
 ## DOWNLOADS:
 
-[ipfs](https://ipfs.io/ipfs/Qmeh3NedfbmnTzL6cyTikev6pyLoSKx1fvwp1Lu88JWq6f)
+#### [ipfs](https://ipfs.io/ipfs/Qmeh3NedfbmnTzL6cyTikev6pyLoSKx1fvwp1Lu88JWq6f)
 
-[MEGA](https://mega.nz/folder/lWgFAaBZ#XyXJCGkfxQUosWQSk8LeOw)
+#### [MEGA](https://mega.nz/folder/lWgFAaBZ#XyXJCGkfxQUosWQSk8LeOw)
 
-[pcloud](https://u.pcloud.link/publink/show?code=kZ1ROcXZtQ2vQhh2YHpj5WDQ1u0VC4WnDI4V)
+#### [pcloud](https://u.pcloud.link/publink/show?code=kZ1ROcXZtQ2vQhh2YHpj5WDQ1u0VC4WnDI4V)
 
 sourceforge
 
@@ -31,7 +31,7 @@ sourceforge
 ## Expect bugs, not finished features and a lot incoming changes...
 
 
-[Void linux](https://voidlinux.org/) is best linux distribution out there.
+#### [Void linux](https://voidlinux.org/) is best linux distribution out there.
 
  With one exception. Not that easy for linux or computer begginers.
  
@@ -39,7 +39,7 @@ sourceforge
 
 ### What about Project Trident ?
 
-[Project Trident](https://project-trident.org) sadly heading to the end.
+#### [Project Trident](https://project-trident.org) sadly heading to the end.
 
 Looks like nothing based on void anywhere ...
 
@@ -89,15 +89,14 @@ easy
 - because we can
 - learn more
 - have fun
-- And show everyone that noob like me can create working linux distribution from void linux ![image](https://user-images.githubusercontent.com/6384793/152500098-0e30c87b-133f-4842-acb4-fab63add8624.png)
-
 
 ![image](https://user-images.githubusercontent.com/6384793/152500098-0e30c87b-133f-4842-acb4-fab63add8624.png)
 - And show everyone that noob like me can create working linux distribution from void linux
 
 
 ## Interested ?
-[codecollab](https://codecollab.io/@osowoso/vb)
+
+#### [codecollab](https://codecollab.io/@osowoso/vb)
 
 zenobit from [oSoWoSo](https://osowoso.xyz)
 

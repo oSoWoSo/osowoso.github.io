@@ -82,3 +82,7 @@ _____________________________
 @zen0bit
 
 mailto: <zenobit@duck.com>
+
+[up](./)
+
+#### [oSoWoSo](https://osowoso.xyz)
