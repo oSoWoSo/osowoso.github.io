@@ -1,6 +1,6 @@
 ---
 layout: default
-title: oSoWoSo - open Source World Society
+title: oSoWoSo
 canonical_url: 'https://osowoso.xyz'
 ---
 
