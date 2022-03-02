@@ -12,8 +12,6 @@ Maybe you looking for...?
 
 ## void begginer friendly overlay
 
-## void linux begginer friendly overlay
-
 you can find here:
 
 #### [vb](https://vb.osowoso.xyz)
