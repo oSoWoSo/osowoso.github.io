@@ -8,9 +8,9 @@ Maybe you looking for...?
 
 # **vb** aka ***VoidGNU/Linux***
 
-## full-featured desktop operation system
+### full-featured desktop operation system
 
-## void begginer friendly overlay
+### void begginer friendly overlay
 
 you can find here:
 
