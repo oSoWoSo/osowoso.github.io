@@ -48,19 +48,19 @@ _____________________________
 - my personal gitea server
 - prefered
 
-![codeberg](./assets/img/codeberg.png)[codeberg.org](https://codeberg.org/oSoWoSo){: .btn-grey}
+#### ![codeberg](./assets/img/codeberg.png)[codeberg.org](https://codeberg.org/oSoWoSo)
 
 - or
 
-![disroot](./assets/img/disroot.png)[disroot.org](https://git.disroot.org/oSoWoSo){: .btn-grey}
+#### ![disroot](./assets/img/disroot.png)[disroot.org](https://git.disroot.org/oSoWoSo)
 
-![sourcehut](./assets/img/sourcehut.png)[sourcehut](https://hg.sr.ht/~osowoso){: .btn-grey}
+#### ![sourcehut](./assets/img/sourcehut.png)[sourcehut](https://hg.sr.ht/~osowoso)
 
-![gitlab](./assets/img/gitlab.png)[gitlab.com](https://gitlab.com/osowoso){: .btn-grey}
+#### ![gitlab](./assets/img/gitlab.png)[gitlab.com](https://gitlab.com/osowoso)
 
 - needed for contribution
 
-![github](./assets/img/github.png)[github.com](https://github.com/oSoWoSo){: .btn-grey} :(
+#### ![github](./assets/img/github.png)[github.com](https://github.com/oSoWoSo) :(
 
 - waiting for gitea federation support...
 - and looking at git-ssb
