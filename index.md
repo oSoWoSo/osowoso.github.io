@@ -20,37 +20,43 @@ Or looking for our other projects?
 
 most of them are just contributions to upstream...
 
-# quickemu - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines
+# quickemu
+Quickly create and run optimised Windows, macOS and Linux desktop virtual machines
 
 you can find here:
 
 #### [quickemu](https://quickemu.osowoso.xyz)
 
-# easybashgui - Posix compliant Bash functions library that aims to give simple GUI functions
+# easybashgui
+Posix compliant Bash functions library that aims to give simple GUI functions
 
 you can find here:
 
 #### [easybashgui](https://easybashgui.osowoso.xyz)
 
-# vbm - XBPS package management helper for VoidLinux
+# vbm
+XBPS package management helper for VoidLinux
 
 you can find here:
 
 ##### [vbm](https://vbm.osowoso.xyz)
 
-# VUR - Void source packages collection 
+# VUR
+Void source packages collection 
 
 you can find here:
 
 #### [VUR](https://github.com/oSoWoSo/VUR)
 
-# Void in Termux - This intends to allow a proot from Termux to Void Linux rootfs
+# Void in Termux
+This intends to allow a proot from Termux to Void Linux rootfs
 
 you can find here:
 
 #### [Void in Termux](termux.osowoso.xyz)
 
-# passthrough helper void - GPU passthrough helper for Void Linux
+# passthrough helper void
+GPU passthrough helper for Void Linux
 
 you can find here:
 
@@ -58,7 +64,8 @@ you can find here:
 
 And themes used on my site...
 
-# Cayman dark theme - Dark theme for jekyll pages
+# Cayman dark theme
+Dark theme for jekyll pages
 
 #### [cayman vb dark](https://cayman.osowoso.xyz/)
 
