@@ -53,14 +53,14 @@ This intends to allow a proot from Termux to Void Linux rootfs
 
 you can find here:
 
-#### [Void in Termux](termux.osowoso.xyz)
+#### [Void in Termux](https://termux.osowoso.xyz)
 
 # passthrough helper void
 GPU passthrough helper for Void Linux
 
 you can find here:
 
-#### [passthrough helper void](passthrough.osowoso.xyz)
+#### [passthrough helper void](https://passthrough.osowoso.xyz)
 
 And themes used on my site...
 
