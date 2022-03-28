@@ -46,7 +46,7 @@ Void source packages collection
 
 you can find here:
 
-#### [VUR](https://github.com/oSoWoSo/VUR)
+#### [VUR](https://vur.osowoso.xyz/)
 
 # Void in Termux
 This intends to allow a proot from Termux to Void Linux rootfs
