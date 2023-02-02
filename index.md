@@ -20,7 +20,7 @@ Or looking for our other projects?
 
 most of them are just contributions to upstream...
 
-# quickemu
+# quickemu and quickfzf
 Quickly create and run optimised Windows, macOS and Linux desktop virtual machines
 
 you can find here:
