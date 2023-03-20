@@ -1,0 +1,3 @@
+[submodule "DistroHopper"]
+	path = DistroHopper
+	url = https://github.com/oSoWoSo/DistroHopper
