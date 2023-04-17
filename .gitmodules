@@ -1,3 +1,24 @@
+[submodule "vbm"]
+	path = projects/vbm
+	url = https://github.com/oSoWoSo/vbm.git
+[submodule "Void-In-Termux"]
+	path = projects/Void-In-Termux
+	url = https://github.com/oSoWoSo/Void-In-Termux.git
+[submodule "passthrough_helper_void"]
+	path = projects/passthrough_helper_void
+	url = https://github.com/oSoWoSo/passthrough_helper_void.git
+[submodule "Void-Wallpapers"]
+	path = projects/Void-Wallpapers
+	url = https://github.com/oSoWoSo/Void-Wallpapers.git
+[submodule "quickemu"]
+	path = commits/quickemu
+	url = https://github.com/oSoWoSo/quickemu.git
+[submodule "opencommit"]
+	path = localized/opencommit
+	url = https://github.com/oSoWoSo/opencommit.git
+[submodule "VUR"]
+	path = commits/VUR
+	url = https://github.com/oSoWoSo/VUR.git
 [submodule "DistroHopper"]
-	path = DistroHopper
-	url = https://github.com/oSoWoSo/DistroHopper
+	path = projects/DistroHopper
+	url = https://github.com/oSoWoSo/DistroHopper.git
