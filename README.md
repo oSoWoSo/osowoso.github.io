@@ -4,6 +4,8 @@ title: oSoWoSo
 canonical_url: 'https://osowoso.xyz'
 ---
 
+[![pages-build-deployment](https://github.com/oSoWoSo/oSoWoSo/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/oSoWoSo/oSoWoSo/actions/workflows/pages/pages-build-deployment)
+
 Maybe you looking for...?
 
 # **vb** aka ***VoidGNU/Linux***
