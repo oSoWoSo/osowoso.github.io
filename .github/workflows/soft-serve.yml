@@ -1,0 +1,32 @@
+name: Soft-Serve
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  soft-serve:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 # git cannot push a shallow clone
+
+      - name: Push to Soft Serve
+        uses: charmbracelet/soft-serve-action@master
+        with:
+          # Repository name on Soft Serve (defaults to GitHub repository name)
+          name: foobar
+          # The server hosting Soft Serve
+          server: my.yummy.server.srv
+          # Required only if Soft Serve is configured with authentication
+          ssh-key: ${{ secrets.SOFT_SERVE_KEY }}
+          # SSH user name, defaults to: git
+          ssh-user: abc
+          # Port on which the SSH server is running, defaults to: 22
+          ssh-port: 23231
+          # Whether or not to use git mirror to mirror the repository
+          mirror: true
