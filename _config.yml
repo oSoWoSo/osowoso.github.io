@@ -1,7 +1,7 @@
 # Theme supports custom buttons
 buttons:
   - text: oSoWoSo
-    href: https://osowoso.github.io/osowoso
+    href: https://osowoso.github.io
     
 # remote theme
 remote_theme: oSoWoSo/cayman-vb-dark
