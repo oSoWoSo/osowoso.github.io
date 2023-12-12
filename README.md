@@ -1,10 +1,10 @@
 ---
 layout: default
 title: oSoWoSo
-canonical_url: 'https://osowoso.xyz'
+canonical_url: 'https://osowoso.github.io/'
 ---
 
-[![pages-build-deployment](https://github.com/oSoWoSo/oSoWoSo/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/oSoWoSo/oSoWoSo/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/oSoWoSo/osowoso.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/oSoWoSo/osowoso.github.io/actions/workflows/pages/pages-build-deployment)
 
 Maybe you looking for...?
 
@@ -16,7 +16,7 @@ Maybe you looking for...?
 
 you can find here:
 
-#### [vb](https://vb.osowoso.xyz)
+#### [vb](https://osowoso.github.io/vb)
 
 Or looking for our other projects?
 
@@ -25,13 +25,13 @@ most of them are just contributions to upstream...
 
 you can find here:
 
-#### [quickemu](https://quickemu.osowoso.xyz)
+#### [quickemu](https://osowoso.github.io/quickemu)
 
 # easybasgui
 
 you can find here:
 
-#### [easybashgui](https://easybashgui.osowoso.xyz)
+#### [easybashgui](https://osowoso.github.io/easybashgui)
 
 _____________________________
 
